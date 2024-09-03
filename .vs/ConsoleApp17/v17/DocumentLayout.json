@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\ConsoleApp17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88FC591A-81A8-40A2-B1EE-7F5D208A4AB1}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88FC591A-81A8-40A2-B1EE-7F5D208A4AB1}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\asus\\source\\consoleapp17\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88FC591A-81A8-40A2-B1EE-7F5D208A4AB1}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,36 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\ConsoleApp17\\ConsoleApp17\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp17\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\ConsoleApp17\\ConsoleApp17\\Program.cs",
               "RelativeToolTip": "ConsoleApp17\\Program.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAAAKgAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T14:47:44.26Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

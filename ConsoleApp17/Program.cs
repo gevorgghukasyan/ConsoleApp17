@@ -32,6 +32,10 @@ namespace ConsoleApp17
 				new Person(){ Id = 20},
 			};
 
+
+
+
+
 			people.SortPerson().ForEach(x => Console.WriteLine(x.Id));
 			people.Sort(x => x.Id);
 		}
@@ -39,8 +43,8 @@ namespace ConsoleApp17
 
 	public class Car : EntityBase<Guid>
 	{
-		public string Mark { get; set; }
 		public string Color { get; set; }
+		public int Year { get; set; }
 
 		public Car(Guid key) : base(key)
 		{
