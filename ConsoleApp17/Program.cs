@@ -46,6 +46,9 @@ namespace ConsoleApp17
         public Car(Guid key) : base(key)
         {
 
+
+
+
         }
     }
 
